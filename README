@@ -1,0 +1,3 @@
+Gogo!
+
+docker build -t kicad .; docker run -t kicad sh /compile.sh
